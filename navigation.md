@@ -1,3 +1,5 @@
+[gimmick:theme](lux)
+
 # test4mdwiki by kaniyama-t
 
 [Home](index.md)
